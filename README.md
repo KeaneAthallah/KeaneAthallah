@@ -30,8 +30,8 @@ I'm always looking to grow and improve my skill set. Right now, I'm focusing on:
 
 Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech and innovation. I'm always open to new ideas and opportunities.
 
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/keane-athallah-290082275/))
-- **Email:** [your.email@example.com](mailto:keane.athall@gmail.com)
+- **LinkedIn:** [Keane Athallah]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/keane-athallah-290082275/))
+- **Email:** [keane.athall@gmail.com](mailto:keane.athall@gmail.com)
 
 ## 📊 GitHub Stats
 
