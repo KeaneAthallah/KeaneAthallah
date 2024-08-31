@@ -5,14 +5,16 @@ Welcome to my GitHub profile! I'm passionate about Web Development/Machine Learn
 ## 🚀 Projects
 
 ### 1. [Project Name: Real-time Surveillance System for Prohibited Parking Areas]
-![Project Screenshot](./path/to/your/image.png) <!-- Replace with the correct path to your image -->
 
-- **Description:** This project integrates advanced machine learning algorithms, specifically YOLOv8, for detecting illegal parking. It has achieved a 92% detection accuracy and a 40% reduction in parking violations. Future developments include predictive analytics and integration with smart city infrastructure.
+![Project Screenshot]("Screenshot 2024-08-31 220847.png") <!-- Replace with the correct path to your image -->
+
+- **Description:** This project integrates advanced machine learning algorithms, specifically YOLOv8, for detecting illegal parking. It has achieved a 92% detection accuracy. Future developments include predictive analytics and integration with smart city infrastructure.
 - **Tech Stack:** Python 3.11, YOLOv8, CCTV Cameras, Smart City Integration
 - **Achievements:** Improved detection accuracy and reduced violations, contributing to smarter urban management.
 
 ### 2. [Project Name: Denkids - Educational App for Children]
-![Denkids Screenshot](./path/to/your/image.png) <!-- Replace with the correct path to your image -->
+
+![Denkids Screenshot]("Screenshot 2024-08-31 221219.png") <!-- Replace with the correct path to your image -->
 
 - **Description:** Denkids is an educational mobile application aimed at children. It includes quiz games and educational animation videos to make learning fun and engaging. Developed using Flutter and Dart, it combines interactive content with a user-friendly interface.
 - **Tech Stack:** Flutter, Dart, Animation Videos, Quiz Games
