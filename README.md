@@ -22,21 +22,33 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 
 ### 3. [Kotarindu](https://kotarindu.co.id/)
 
+![Kotarindu Preview](ss3.png) <!-- Replace with the correct path to your image -->
+
 - **Description:** Kotarindu is a comprehensive data gathering platform for micro, small, and medium enterprises (MSMEs) with a focus on Virgin Coconut Oil (VCO) production. Built using the Laravel framework, this website is designed to collect and analyze data, ultimately leading to the development of a machine learning model that categorizes VCO types and offers recommendations for their production. Additionally, Kotarindu features a blog for articles about VCO and serves as a company profile for PT. SAMAMAJJA PRAGATI KOTARINDU.
 - **Tech Stack:** Laravel, Machine Learning (future integration), Blog Integration
 - **Achievements:** Laid the foundation for data-driven insights into VCO production, supporting the growth and innovation of MSMEs.
+- **Website Preview:**  
+  ![Kotarindu Preview](ss4.png) <!-- Replace with the correct path to your image -->
 
 ### 4. [SIMCuti PolPP Sulteng](https://simcutipolppsulteng.my.id/login)
+
+![SIMCuti Preview](ss5.png) <!-- Replace with the correct path to your image -->
 
 - **Description:** SIMCuti PolPP Sulteng is an online leave management system developed for the government instance Satuan Polisi Pamong Praja Sulawesi Tengah. Built using the Laravel framework, this system streamlines the leave request and approval process for government employees, making it more efficient and transparent.
 - **Tech Stack:** Laravel
 - **Achievements:** Successfully implemented a digital solution for managing leave processes, improving administrative efficiency within the government sector.
+- **Website Preview:**  
+  ![SIMCuti Preview](ss6.png) <!-- Replace with the correct path to your image -->
 
 ### 5. [LaporPak](https://laporpak.bmprsulteng.com/)
+
+![LaporPak Preview](ss7.png) <!-- Replace with the correct path to your image -->
 
 - **Description:** LaporPak is a reporting system for Pelaporan Pelaksanaan Aktifitas Pekerjaan (LAPOR PAK) used by Dinas Bina Marga dan Penataan Ruang Provinsi Sulawesi Tengah. Built on the Laravel framework, it simplifies and automates the process of reporting work activities, making the reporting process more efficient and effective.
 - **Tech Stack:** Laravel
 - **Achievements:** Enhanced the accuracy and timeliness of work activity reporting, contributing to better resource management and project tracking.
+- **Website Preview:**  
+  ![LaporPak Preview](ss8.png) <!-- Replace with the correct path to your image -->
 
 ## 🌱 What I'm Currently Learning
 
