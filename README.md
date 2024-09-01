@@ -50,6 +50,68 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 - **Website Preview:**  
   ![LaporPak Preview](ss8.png) <!-- Replace with the correct path to your image -->
 
+## 💼 Experience
+
+### PT. Samamajja Pragati Kotarindu | Palu, Sulawesi Tengah
+
+**Freelance Web Developer | 10/2023 - 12/2023**
+
+- Developed comprehensive company profile websites with full-featured functionality tailored to client specifications.
+- Engineered intuitive dashboards for micro, small, and medium-sized businesses specializing in Virgin Coconut Oil (VCO) production.
+- Implemented robust data management systems to optimize VCO production methods and enhance quality grading processes.
+
+### Kementrian Palu Utara | Palu, Sulawesi Tengah
+
+**Freelance Web Developer | 08/2023 - 08/2023**
+
+- Developed a comprehensive survey platform to gauge public satisfaction, featuring a real-time satisfaction index and a mechanism for anonymous feedback and suggestions.
+- Integrated a robust dashboard management system for administrative oversight and data analytics.
+
+### PT. Insan Mandiri Nekatama | Makassar, Sulawesi Selatan
+
+**Intern Web Developer | 03/2023 - 05/2023**
+
+- Developed a company profile website that showcases the company’s services and products in an interactive and user‐friendly manner.
+- Integrated an attendance feature that enables employers to keep track of their employees’ work hours and attendance records. Additionally, I enhanced employer oversight by implementing a system that provides real-time updates on employee performance and productivity.
+- Streamlined staff management by creating a centralized platform that allows employers to manage employee data and generate reports with ease.
+
+### Dinas Kementrian Komunikasi dan Informatika | Gowa, Sulawesi Selatan
+
+**Internship Student | 06/2022 - 08/2022**
+
+- Orchestrated a mayoral conference call that brought together key stakeholders to discuss the city’s priorities and challenges.
+- Engineered a robust networking setup that enabled seamless communication between the participants and ensured that the call was conducted without any technical glitches.
+
+## 🎓 Education
+
+### Universitas Negeri Makassar | Makassar, Sulawesi Selatan
+
+**Computer Engineer (Final Year)**
+
+- Proficient in web development and IoT implementations, with a strong foundation in programming languages such as HTML, CSS, and JavaScript.
+- Executed advanced IoT technology projects that involve the integration of hardware and software components to create innovative solutions.
+- Skilled in computer vision and biomedical imaging processing, with experience in developing algorithms and models that enable the analysis of medical images and the extraction of meaningful insights.
+
+## 🛠 Skills
+
+- **Languages:** HTML5, CSS3, JavaScript, PHP, Python, MySQL, Next.js, Laravel
+- **Technologies:** Computer Vision, Data Analysis Skills
+
+## 🌐 Languages
+
+- **English:** Fluent
+- **Indonesian:** Native
+
+## 🏅 Certifications
+
+- **Responsive Web Design**
+- **Belajar Dasar Data Science**
+- **Belajar Dasar Git dan GitHub**
+- **Belajar Dasar Structured Query Language (SQL)**
+- **Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)**
+- **Memulai Pemrograman dengan Python**
+- **Belajar Dasar Visualisasi Data**
+
 ## 🌱 What I'm Currently Learning
 
 I'm always looking to grow and improve my skill set. Right now, I'm focusing on:
