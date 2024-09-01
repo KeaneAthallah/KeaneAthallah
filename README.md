@@ -50,7 +50,19 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 - **Website Preview:**  
   ![LaporPak Preview](ss8.png) <!-- Replace with the correct path to your image -->
 
-## 💼 Experience
+## 🌱 What I'm Currently Learning
+
+I'm always looking to grow and improve my skill set. Right now, I'm focusing on:
+
+- **Enhancing my knowledge of predictive analytics and AI-driven insights:** Delving deeper into data science techniques to extract meaningful patterns and drive intelligent decision-making.
+- **Exploring new features in Flutter and Dart for mobile app development:** Building more robust and feature-rich applications to provide better user experiences.
+- **Experimenting with different data distribution techniques for smaller sample sizes:** Improving data handling and analysis methods to work efficiently with limited data.
+- **NEXT.js:** Exploring the power of server-side rendering and static site generation to create fast, SEO-friendly web applications.
+- **MERN Stack (MongoDB, Express.js, React, Node.js):** Mastering the full stack to build modern, scalable, and dynamic web applications that provide seamless user interactions and robust backend services.
+
+These technologies are helping me push the boundaries of what I can create, and I'm excited to apply them in future projects!
+
+## 🧑‍💼 Experience
 
 ### PT. Samamajja Pragati Kotarindu | Palu, Sulawesi Tengah
 
@@ -71,9 +83,9 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 
 **Intern Web Developer | 03/2023 - 05/2023**
 
-- Developed a company profile website that showcases the company’s services and products in an interactive and user‐friendly manner.
-- Integrated an attendance feature that enables employers to keep track of their employees’ work hours and attendance records. Additionally, I enhanced employer oversight by implementing a system that provides real-time updates on employee performance and productivity.
-- Streamlined staff management by creating a centralized platform that allows employers to manage employee data and generate reports with ease.
+- Developed a company profile website that showcases the company’s services and products in an interactive and user-friendly manner.
+- Integrated an attendance feature that enables employers to keep track of their employees’ work hours and attendance records.
+- Enhanced employer oversight by implementing a system that provides real-time updates on employee performance and productivity.
 
 ### Dinas Kementrian Komunikasi dan Informatika | Gowa, Sulawesi Selatan
 
@@ -82,47 +94,12 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 - Orchestrated a mayoral conference call that brought together key stakeholders to discuss the city’s priorities and challenges.
 - Engineered a robust networking setup that enabled seamless communication between the participants and ensured that the call was conducted without any technical glitches.
 
-## 🎓 Education
-
-### Universitas Negeri Makassar | Makassar, Sulawesi Selatan
-
-**Computer Engineer (Final Year)**
-
-- Proficient in web development and IoT implementations, with a strong foundation in programming languages such as HTML, CSS, and JavaScript.
-- Executed advanced IoT technology projects that involve the integration of hardware and software components to create innovative solutions.
-- Skilled in computer vision and biomedical imaging processing, with experience in developing algorithms and models that enable the analysis of medical images and the extraction of meaningful insights.
-
 ## 🛠 Skills
 
-- **Languages:** HTML5, CSS3, JavaScript, PHP, Python, MySQL, Next.js, Laravel
-- **Technologies:** Computer Vision, Data Analysis Skills
-
-## 🌐 Languages
-
-- **English:** Fluent
-- **Indonesian:** Native
-
-## 🏅 Certifications
-
-- **Responsive Web Design**
-- **Belajar Dasar Data Science**
-- **Belajar Dasar Git dan GitHub**
-- **Belajar Dasar Structured Query Language (SQL)**
-- **Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)**
-- **Memulai Pemrograman dengan Python**
-- **Belajar Dasar Visualisasi Data**
-
-## 🌱 What I'm Currently Learning
-
-I'm always looking to grow and improve my skill set. Right now, I'm focusing on:
-
-- **Enhancing my knowledge of predictive analytics and AI-driven insights:** Delving deeper into data science techniques to extract meaningful patterns and drive intelligent decision-making.
-- **Exploring new features in Flutter and Dart for mobile app development:** Building more robust and feature-rich applications to provide better user experiences.
-- **Experimenting with different data distribution techniques for smaller sample sizes:** Improving data handling and analysis methods to work efficiently with limited data.
-- **NEXT.js:** Exploring the power of server-side rendering and static site generation to create fast, SEO-friendly web applications.
-- **MERN Stack (MongoDB, Express.js, React, Node.js):** Mastering the full stack to build modern, scalable, and dynamic web applications that provide seamless user interactions and robust backend services.
-
-These technologies are helping me push the boundaries of what I can create, and I'm excited to apply them in future projects!
+- **Programming Languages:** HTML5, CSS3, JavaScript, PHP, Python, MySQL, Dart
+- **Frameworks & Libraries:** Next.js, Laravel, React, Flutter
+- **Specializations:** Computer Vision, Data Analysis, IoT Implementations, Web Development, Mobile App Development
+- **Tools & Technologies:** Git, GitHub, AWS Cloud, SQL, Data Visualization
 
 ## 💬 Let's Connect!
 
