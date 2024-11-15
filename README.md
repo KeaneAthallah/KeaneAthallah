@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 
 ![Project Screenshot](ss10.png) <!-- Replace with the correct path to your image -->
 
-- **Description:** Simeja is an online leave management system tailored for organizations to streamline the handling of employee leave requests. Built on the Laravel framework, it enhances organizational efficiency by simplifying leave application, tracking, and approval processes, ensuring a smooth and transparent workflow.
+- **Description:**  A public reporting platform for road damage complaints directed to Bina Marga in Central Sulawesi. Simeja simplifies the processing of field survey data and performs complex calculations to accurately analyze survey results.
 - **Tech Stack:** Laravel, Tailwind CSS, MySQL,
 - **Achievements:** Improved the accuracy and efficiency of leave management, reducing processing time for approvals and providing insights through detailed leave reporting.
 Website Preview:
