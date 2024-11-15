@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 
 - **Description:**  A public reporting platform for road damage complaints directed to Bina Marga in Central Sulawesi. Simeja simplifies the processing of field survey data and performs complex calculations to accurately analyze survey results.
 - **Tech Stack:** Laravel, Tailwind CSS, MySQL,
-- **Achievements:** Improved the accuracy and efficiency of leave management, reducing processing time for approvals and providing insights through detailed leave reporting.
+- **Achievements:** Streamlined public reporting and field data processing for road condition surveys, improving accuracy in reporting and enabling faster analysis with complex survey data calculations.
 Website Preview:
 ![Project Screenshot](ss9.png) <!-- Replace with the correct path to your image -->
 ### 2. [Real-time Surveillance System for Prohibited Parking Areas](https://github.com/yourusername/your-repo)
