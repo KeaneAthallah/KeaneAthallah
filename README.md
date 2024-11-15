@@ -130,5 +130,6 @@ Feel free to reach out if you want to collaborate on a project, have a question,
 - **Data-Driven Insights:** Pioneered a data collection system for VCO production through Kotarindu
 - **Government Efficiency:** Implemented SIMCuti PolPP Sulteng, enhancing leave management for government employees
 - **Work Activity Reporting:** Streamlined reporting processes with LaporPak, improving project management efficiency
+- **Public Reporting Platform:** Developed Simeja, a public platform for reporting road damage complaints to Bina Marga in Central Sulawesi, simplifying field data processing and enabling precise analysis with complex survey data.
 
 Thanks for visiting my profile! 😊
