@@ -7,13 +7,13 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 
 ### 1. [Simeja - A Comprehensive Time Off Management System](https://github.com/yourusername/your-repo)
 
-![Project Screenshot](ss9.png) <!-- Replace with the correct path to your image -->
+![Project Screenshot](ss10.png) <!-- Replace with the correct path to your image -->
 
 - **Description:** Simeja is an online leave management system tailored for organizations to streamline the handling of employee leave requests. Built on the Laravel framework, it enhances organizational efficiency by simplifying leave application, tracking, and approval processes, ensuring a smooth and transparent workflow.
 - **Tech Stack:** Laravel, Tailwind CSS, MySQL,
 - **Achievements:** Improved the accuracy and efficiency of leave management, reducing processing time for approvals and providing insights through detailed leave reporting.
 Website Preview:
-![Project Screenshot](ss10.png) <!-- Replace with the correct path to your image -->
+![Project Screenshot](ss9.png) <!-- Replace with the correct path to your image -->
 ### 2. [Real-time Surveillance System for Prohibited Parking Areas](https://github.com/yourusername/your-repo)
 
 ![Project Screenshot](ss1.png) <!-- Replace with the correct path to your image -->
