@@ -4,7 +4,17 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 
 ## 🚀 Projects
 
-### 1. [Real-time Surveillance System for Prohibited Parking Areas](https://github.com/yourusername/your-repo)
+
+### 1. [Simeja - A Comprehensive Time Off Management System](https://github.com/yourusername/your-repo)
+
+![Project Screenshot](ss1.png) <!-- Replace with the correct path to your image -->
+
+- **Description:** Simeja is an online leave management system tailored for organizations to streamline the handling of employee leave requests. Built on the Laravel framework, it enhances organizational efficiency by simplifying leave application, tracking, and approval processes, ensuring a smooth and transparent workflow.
+- **Tech Stack:** Laravel, Tailwind CSS, MySQL,
+- **Achievements:** Improved the accuracy and efficiency of leave management, reducing processing time for approvals and providing insights through detailed leave reporting.
+Website Preview:
+![Project Screenshot](ss1.png) <!-- Replace with the correct path to your image -->
+### 2. [Real-time Surveillance System for Prohibited Parking Areas](https://github.com/yourusername/your-repo)
 
 ![Project Screenshot](ss1.png) <!-- Replace with the correct path to your image -->
 
@@ -12,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 - **Tech Stack:** Python 3.11, YOLOv8, CCTV Cameras, Smart City Integration
 - **Achievements:** Improved detection accuracy and reduced violations, contributing to smarter urban management.
 
-### 2. [Denkids - Educational App for Children](https://github.com/yourusername/denkids)
+### 3. [Denkids - Educational App for Children](https://github.com/yourusername/denkids)
 
 ![Denkids Screenshot](ss2.png) <!-- Replace with the correct path to your image -->
 
@@ -20,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 - **Tech Stack:** Flutter, Dart, Animation Videos, Quiz Games
 - **Achievements:** Successfully created an interactive learning environment that has been well-received by both children and educators.
 
-### 3. [Kotarindu](https://kotarindu.co.id/)
+### 4. [Kotarindu](https://kotarindu.co.id/)
 
 ![Kotarindu Preview](ss3.png) <!-- Replace with the correct path to your image -->
 
@@ -30,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 - **Website Preview:**  
   ![Kotarindu Preview](ss4.png) <!-- Replace with the correct path to your image -->
 
-### 4. [SIMCuti PolPP Sulteng](https://simcutipolppsulteng.my.id/login)
+### 5. [SIMCuti PolPP Sulteng](https://simcutipolppsulteng.my.id/login)
 
 ![SIMCuti Preview](ss5.png) <!-- Replace with the correct path to your image -->
 
@@ -40,7 +50,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development and Machine L
 - **Website Preview:**  
   ![SIMCuti Preview](ss6.png) <!-- Replace with the correct path to your image -->
 
-### 5. [LaporPak](https://laporpak.bmprsulteng.com/)
+### 6. [LaporPak](https://laporpak.bmprsulteng.com/)
 
 ![LaporPak Preview](ss7.png) <!-- Replace with the correct path to your image -->
 
