@@ -95,7 +95,7 @@ These technologies are helping me push the boundaries of what I can create, and 
 
 ### Satuan Polisi Pamong Praja Sulawesi Tengah | Palu, Sulawesi Tengah  
 
-**Freelance Web Developer | 06/2024 - 07/2024  ** 
+**Freelance Web Developer | 06/2024 - 07/2024** 
 
 - Developed **[SIMCuti PolPP Sulteng](https://simcutipolppsulteng.my.id/login)**, an online leave management system for government employees of Satuan Polisi Pamong Praja Sulawesi Tengah.  
 - Streamlined the leave request and approval process, making it more efficient and transparent.  
