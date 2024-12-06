@@ -74,6 +74,25 @@ These technologies are helping me push the boundaries of what I can create, and 
 
 ## 🧑‍💼 Experience
 
+
+### Dinas Bina Marga dan Penataan Ruang Provinsi | Palu, Sulawesi Tengah 
+
+**Freelance Web Developer | 10/2024 - 11/2024**  
+
+- Developed **[Simeja - A Comprehensive Time Off Management System](https://simeja-bmprsulteng.com/)**, a public reporting platform for road damage complaints directed to Bina Marga in Central Sulawesi.  
+- Simplified the processing of field survey data and performed complex calculations to analyze survey results accurately.  
+- **Tech Stack:** Laravel, Tailwind CSS, MySQL.  
+- **Achievements:** Streamlined public reporting and field data processing for road condition surveys, improving reporting accuracy and enabling faster analysis.  
+
+### Dinas Bina Marga dan Penataan Ruang Provinsi | Palu, Sulawesi Tengah 
+
+**Freelance Web Developer | 07/2024 - 08/2024**  
+
+- Developed **[Lapor Pak - Work Activity Reporting System](https://laporpak.bmprsulteng.com/)**, used by Dinas Bina Marga dan Penataan Ruang Provinsi Sulawesi Tengah.  
+- Automated and simplified the work activity reporting process for government projects.  
+- **Tech Stack:** Laravel, Tailwind CSS, MySQL.  
+- **Achievements:** Enhanced the accuracy and efficiency of work activity reporting, contributing to better resource management and project tracking.  
+
 ### PT. Samamajja Pragati Kotarindu | Palu, Sulawesi Tengah
 
 **Freelance Web Developer | 10/2023 - 12/2023**
