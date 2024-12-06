@@ -91,7 +91,16 @@ These technologies are helping me push the boundaries of what I can create, and 
 - Developed **[Lapor Pak - Work Activity Reporting System](https://laporpak.bmprsulteng.com/)**, used by Dinas Bina Marga dan Penataan Ruang Provinsi Sulawesi Tengah.  
 - Automated and simplified the work activity reporting process for government projects.  
 - **Tech Stack:** Laravel, Tailwind CSS, MySQL.  
-- **Achievements:** Enhanced the accuracy and efficiency of work activity reporting, contributing to better resource management and project tracking.  
+- **Achievements:** Enhanced the accuracy and efficiency of work activity reporting, contributing to better resource management and project tracking.
+
+### Satuan Polisi Pamong Praja Sulawesi Tengah | Palu, Sulawesi Tengah  
+
+**Freelance Web Developer | 06/2024 - 07/2024  ** 
+
+- Developed **[SIMCuti PolPP Sulteng](https://simcutipolppsulteng.my.id/login)**, an online leave management system for government employees of Satuan Polisi Pamong Praja Sulawesi Tengah.  
+- Streamlined the leave request and approval process, making it more efficient and transparent.  
+- **Tech Stack:** Laravel, Tailwind CSS, MySQL.  
+- **Achievements:** Successfully implemented a digital solution for managing leave processes, improving administrative efficiency within the government sector.  
 
 ### PT. Samamajja Pragati Kotarindu | Palu, Sulawesi Tengah
 
