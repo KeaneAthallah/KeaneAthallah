@@ -75,6 +75,46 @@ These technologies are helping me push the boundaries of what I can create, and 
 ## 🧑‍💼 Experience
 
 
+### Badan Perencanaan Pembangunan Daerah Sulawesi Tengah
+**Freelance DevOps | 1/2025 - 2/2025**
+
+*   Responsible for managing and maintaining server infrastructure and application deployment.
+*   Implemented continuous integration and continuous delivery (CI/CD) to accelerate the application release cycle.
+*   Managed and monitored servers and applications to ensure optimal availability and performance.
+*   Automated deployment tasks using Docker, reducing human error and increasing efficiency.
+*   Troubleshooted and resolved issues related to infrastructure and applications.
+*   Collaborated with the development team to ensure applications ran smoothly in the production environment.
+*   Created technical documentation related to infrastructure and application deployment.
+
+**Detailed Docker and Nginx Experience:**
+
+During this period, I leveraged Docker for containerization and deployment, along with Nginx as a reverse proxy and load balancer, for three main applications:
+
+*   **Siperjadin (Official Travel Information System):** This application manages employee travel arrangements. I used Docker to package the application and its dependencies into a container, simplifying deployment across various environments (local and production). Docker ensured environment consistency across development stages. Nginx was implemented to handle incoming requests, distribute traffic, and improve application security.  [Optional: Add a screenshot or link here if available]
+
+*   **ErealDeposit (Real-time Deposit Application):** ErealDeposit handles real-time deposit transactions. Docker enabled me to create a portable and scalable application image. I used Docker Compose to manage multiple interconnected containers, such as the database and web server. Nginx served as a reverse proxy, providing an additional layer of security and improving performance by caching static content. [Optional: Add a screenshot or link here if available]
+
+*   **SiaKendis (Official Vehicle Information System):** SiaKendis manages official vehicle information. I utilized Docker to isolate the application from the host environment, minimizing the risk of conflicts between applications. Docker also simplified the rollback process to previous versions in case of issues. Nginx was configured to serve static files efficiently and to act as a load balancer for multiple instances of the application. [Optional: Add a screenshot or link here if available]
+
+**Technical Implementation Details:**
+
+*   I used Docker CLI and Docker Compose to build, run, and manage containers.
+*   I created Dockerfiles for each application, containing instructions to build the application image.
+*   I utilized Docker Hub to store and distribute application images.
+*   I integrated Docker with CI/CD tools for deployment automation.
+*   I configured Nginx to act as a reverse proxy, load balancer, and static file server.
+*   I implemented SSL termination at the Nginx layer to secure communication.
+
+**Achieved Results:**
+
+*   Application deployment process became faster and more efficient.
+*   Environment consistency across development stages was ensured.
+*   Application scalability increased.
+*   Server and application management became easier.
+*   Application security and performance were improved with the implementation of Nginx.
+
+
+
 ### Dinas Bina Marga dan Penataan Ruang Provinsi | Palu, Sulawesi Tengah 
 
 **Freelance Web Developer | 10/2024 - 11/2024**  
